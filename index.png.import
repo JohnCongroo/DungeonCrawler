@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bspj3clhr38le"
-path="res://.godot/imported/index.png-9f09af6079327bfd39aa111566c3d5a8.ctex"
+path="res://.godot/imported/index.png-10a50eeb0009fd7fdb8a069f4b93397c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://localtest/index.png"
-dest_files=["res://.godot/imported/index.png-9f09af6079327bfd39aa111566c3d5a8.ctex"]
+source_file="res://DungeonCrawler/index.png"
+dest_files=["res://.godot/imported/index.png-10a50eeb0009fd7fdb8a069f4b93397c.ctex"]
 
 [params]
 
